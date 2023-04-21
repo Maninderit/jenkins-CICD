@@ -95,3 +95,137 @@ git commit -m "Added feature in Development branch"
 git status 
 git log --oneline 
 git log 
+git --version 
+touch git01.txt
+"There is a new file written in the kodekloud" >> git01.txt 
+ls
+cat git01.txt 
+cat git01.txt  >> "There is a new file written in the kodekloud" 
+cat git01.txt 
+git init 
+ls -a 
+cd .git/
+ls
+touch story1.txt
+echo "this is a new git"
+cat story1.txt 
+echo "there is a new git" >> story1.txt 
+cat story1.txt 
+cd
+ls
+touch kodekloud.txt
+echo "welcome to new course git" >>kodekloud.txt 
+cat kodekloud.txt 
+git status 
+git add kodekloud.txt 
+git status 
+git add .
+git status 
+git commit -m "added the first code"
+git commit -m "added the first code" kodekloud.txt 
+git status 
+git log 
+git status 
+giti stash 
+git stash 
+git stage 
+git stage kodekloud.txt 
+ls
+git status 
+git status kodekloud.txt 
+ls
+git status 
+git tree
+mktree
+git stage 
+pwd
+git init 
+ls -al
+git status 
+touch code.txt
+echo "this is my first code" >> code.txt 
+git status 
+git add code.txt 
+git status 
+git config user.name "Mumshad"
+git config  user.email "mumshad@kodekloud.com"
+git log 
+git log master 
+git log HEAD 
+git commit 
+cat /home/ubuntu/.gitconfig 
+cat /home/ubuntu/.git
+cd /home/ubuntu/.git
+ls
+cat COMMIT_EDITMSG 
+cd branches/
+ls
+ls -l 
+cd
+ls
+cat /home/ubuntu/.git
+cat /home/ubuntu/.gitconfig 
+ls
+git commit 
+git config user.name "Mumshad"
+git config user.email "kodekloud@gmail.com"
+git commit 
+git stata
+git status 
+git add 
+git add .
+git status 
+git commit 
+git log 
+cat /etc/os-release 
+cat /etc/*release*
+exit 
+git checkout -b branch_stash
+cd Devops/
+vi demo.txt
+git stash 
+git checkout -b branch_stash
+vi demo.txt
+git checkout -b branch_stash
+vi demo1.txt
+git stash
+ls
+rm -rf *
+ls
+cd
+cd Devops/
+git checkout -b branch_stash
+vi demo.txt
+vi demo3.txt
+git stash 
+git checkout -b branch_dev
+vi new_demo.txt
+git add .
+git commit -m "added a new file"
+git stash pop
+git add .
+git commit -m "added demo file from branch stash"
+git log --oneline 
+initial commit 
+git log 
+ls
+vi demo.txt
+vi  demo1.txt
+git status 
+git add .
+git status 
+git commit -m "Added feature2.1 in development branch"
+cd Devops/
+vi demo.txt
+git status 
+git add .
+git commit -m "Added feature2.2 in development branch"
+vi demo.txt 
+git status 
+git add .
+git commit -m "Featiure2 Completed"
+git status 
+git log 
+git checkout -b production 
+git rebase dev 
+git log 

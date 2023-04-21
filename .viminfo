@@ -12,7 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1682009262,,"wq!"
+|2,0,1682098431,,"wq!"
+:W!
+|2,0,1682096810,,"W!"
+:wq
+|2,0,1682096797,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,98 +29,262 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/Devops/version01.txt
-|4,48,1,0,1682009262,"~/Devops/version01.txt"
-'1  1  0  ~/version01.txt
-|4,49,1,0,1682009229,"~/version01.txt"
-'2  1  0  ~/Devops/git.txt
-|4,50,1,0,1681906740,"~/Devops/git.txt"
-'3  3  60  ~/Devops/test.txt
-|4,51,3,60,1681406986,"~/Devops/test.txt"
-'4  1  36  ~/90-days-of-devops/demo.txt
-|4,52,1,36,1681322339,"~/90-days-of-devops/demo.txt"
+'0  1  0  ~/Devops/demo.txt
+|4,48,1,0,1682098431,"~/Devops/demo.txt"
+'1  1  0  ~/Devops/demo.txt
+|4,49,1,0,1682098295,"~/Devops/demo.txt"
+'2  20  8  /usr/share/vim/vim81/doc/help.txt
+|4,50,20,8,1682098250,"/usr/share/vim/vim81/doc/help.txt"
+'3  2  0  ~/Devops/demo1.txt
+|4,51,2,0,1682097597,"~/Devops/demo1.txt"
+'4  1  0  ~/Devops/demo.txt
+|4,52,1,0,1682097571,"~/Devops/demo.txt"
+'5  1  0  ~/Devops/demo.txt
+|4,53,1,0,1682097571,"~/Devops/demo.txt"
+'6  2  8  ~/Devops/new_demo.txt
+|4,54,2,8,1682097061,"~/Devops/new_demo.txt"
+'7  1  5  ~/Devops/demo3.txt
+|4,55,1,5,1682096935,"~/Devops/demo3.txt"
+'8  1  0  ~/Devops/demo.txt
+|4,56,1,0,1682096918,"~/Devops/demo.txt"
+'9  1  0  ~/Devops/demo.txt
+|4,57,1,0,1682096918,"~/Devops/demo.txt"
 
 # Jumplist (newest first):
--'  1  0  ~/Devops/version01.txt
-|4,39,1,0,1682009262,"~/Devops/version01.txt"
--'  1  0  ~/version01.txt
-|4,39,1,0,1682009229,"~/version01.txt"
--'  1  0  ~/version01.txt
-|4,39,1,0,1682009229,"~/version01.txt"
--'  1  0  ~/Devops/git.txt
-|4,39,1,0,1681906740,"~/Devops/git.txt"
--'  1  0  ~/Devops/git.txt
-|4,39,1,0,1681906740,"~/Devops/git.txt"
--'  1  0  ~/Devops/git.txt
-|4,39,1,0,1681906740,"~/Devops/git.txt"
--'  1  0  ~/Devops/git.txt
-|4,39,1,0,1681906740,"~/Devops/git.txt"
--'  3  60  ~/Devops/test.txt
-|4,39,3,60,1681406986,"~/Devops/test.txt"
--'  3  60  ~/Devops/test.txt
-|4,39,3,60,1681406986,"~/Devops/test.txt"
--'  3  60  ~/Devops/test.txt
-|4,39,3,60,1681406986,"~/Devops/test.txt"
--'  3  60  ~/Devops/test.txt
-|4,39,3,60,1681406986,"~/Devops/test.txt"
--'  3  60  ~/Devops/test.txt
-|4,39,3,60,1681406986,"~/Devops/test.txt"
--'  3  60  ~/Devops/test.txt
-|4,39,3,60,1681406986,"~/Devops/test.txt"
--'  3  60  ~/Devops/test.txt
-|4,39,3,60,1681406986,"~/Devops/test.txt"
--'  3  60  ~/Devops/test.txt
-|4,39,3,60,1681406986,"~/Devops/test.txt"
--'  1  0  ~/Devops/test.txt
-|4,39,1,0,1681406954,"~/Devops/test.txt"
--'  1  0  ~/Devops/test.txt
-|4,39,1,0,1681406954,"~/Devops/test.txt"
--'  1  0  ~/Devops/test.txt
-|4,39,1,0,1681406954,"~/Devops/test.txt"
--'  1  0  ~/Devops/test.txt
-|4,39,1,0,1681406954,"~/Devops/test.txt"
--'  1  0  ~/Devops/test.txt
-|4,39,1,0,1681406954,"~/Devops/test.txt"
--'  1  0  ~/Devops/test.txt
-|4,39,1,0,1681406954,"~/Devops/test.txt"
--'  1  0  ~/Devops/test.txt
-|4,39,1,0,1681406954,"~/Devops/test.txt"
--'  1  0  ~/Devops/test.txt
-|4,39,1,0,1681406954,"~/Devops/test.txt"
--'  1  36  ~/90-days-of-devops/demo.txt
-|4,39,1,36,1681322339,"~/90-days-of-devops/demo.txt"
--'  1  36  ~/90-days-of-devops/demo.txt
-|4,39,1,36,1681322339,"~/90-days-of-devops/demo.txt"
--'  1  36  ~/90-days-of-devops/demo.txt
-|4,39,1,36,1681322339,"~/90-days-of-devops/demo.txt"
--'  1  36  ~/90-days-of-devops/demo.txt
-|4,39,1,36,1681322339,"~/90-days-of-devops/demo.txt"
--'  1  36  ~/90-days-of-devops/demo.txt
-|4,39,1,36,1681322339,"~/90-days-of-devops/demo.txt"
--'  1  36  ~/90-days-of-devops/demo.txt
-|4,39,1,36,1681322339,"~/90-days-of-devops/demo.txt"
--'  1  36  ~/90-days-of-devops/demo.txt
-|4,39,1,36,1681322339,"~/90-days-of-devops/demo.txt"
--'  1  36  ~/90-days-of-devops/demo.txt
-|4,39,1,36,1681322339,"~/90-days-of-devops/demo.txt"
--'  1  36  ~/90-days-of-devops/demo.txt
-|4,39,1,36,1681322339,"~/90-days-of-devops/demo.txt"
--'  1  36  ~/90-days-of-devops/demo.txt
-|4,39,1,36,1681322339,"~/90-days-of-devops/demo.txt"
--'  1  36  ~/90-days-of-devops/demo.txt
-|4,39,1,36,1681322339,"~/90-days-of-devops/demo.txt"
--'  1  36  ~/90-days-of-devops/demo.txt
-|4,39,1,36,1681322339,"~/90-days-of-devops/demo.txt"
--'  1  36  ~/90-days-of-devops/demo.txt
-|4,39,1,36,1681322339,"~/90-days-of-devops/demo.txt"
--'  1  36  ~/90-days-of-devops/demo.txt
-|4,39,1,36,1681322339,"~/90-days-of-devops/demo.txt"
--'  1  36  ~/90-days-of-devops/demo.txt
-|4,39,1,36,1681322339,"~/90-days-of-devops/demo.txt"
--'  1  36  ~/90-days-of-devops/demo.txt
-|4,39,1,36,1681322339,"~/90-days-of-devops/demo.txt"
+-'  1  0  ~/Devops/demo.txt
+|4,39,1,0,1682098431,"~/Devops/demo.txt"
+-'  1  0  ~/Devops/demo.txt
+|4,39,1,0,1682098295,"~/Devops/demo.txt"
+-'  20  8  /usr/share/vim/vim81/doc/help.txt
+|4,39,20,8,1682098250,"/usr/share/vim/vim81/doc/help.txt"
+-'  20  8  /usr/share/vim/vim81/doc/help.txt
+|4,39,20,8,1682098250,"/usr/share/vim/vim81/doc/help.txt"
+-'  20  8  /usr/share/vim/vim81/doc/help.txt
+|4,39,20,8,1682098250,"/usr/share/vim/vim81/doc/help.txt"
+-'  20  8  /usr/share/vim/vim81/doc/help.txt
+|4,39,20,8,1682098250,"/usr/share/vim/vim81/doc/help.txt"
+-'  2  0  ~/Devops/demo1.txt
+|4,39,2,0,1682097597,"~/Devops/demo1.txt"
+-'  2  0  ~/Devops/demo1.txt
+|4,39,2,0,1682097597,"~/Devops/demo1.txt"
+-'  2  0  ~/Devops/demo1.txt
+|4,39,2,0,1682097597,"~/Devops/demo1.txt"
+-'  2  0  ~/Devops/demo1.txt
+|4,39,2,0,1682097597,"~/Devops/demo1.txt"
+-'  1  0  ~/Devops/demo1.txt
+|4,39,1,0,1682097583,"~/Devops/demo1.txt"
+-'  1  0  ~/Devops/demo1.txt
+|4,39,1,0,1682097583,"~/Devops/demo1.txt"
+-'  1  0  ~/Devops/demo1.txt
+|4,39,1,0,1682097583,"~/Devops/demo1.txt"
+-'  1  0  ~/Devops/demo1.txt
+|4,39,1,0,1682097583,"~/Devops/demo1.txt"
+-'  1  0  ~/Devops/demo.txt
+|4,39,1,0,1682097571,"~/Devops/demo.txt"
+-'  1  0  ~/Devops/demo.txt
+|4,39,1,0,1682097571,"~/Devops/demo.txt"
+-'  2  8  ~/Devops/new_demo.txt
+|4,39,2,8,1682097061,"~/Devops/new_demo.txt"
+-'  2  8  ~/Devops/new_demo.txt
+|4,39,2,8,1682097061,"~/Devops/new_demo.txt"
+-'  2  8  ~/Devops/new_demo.txt
+|4,39,2,8,1682097061,"~/Devops/new_demo.txt"
+-'  2  8  ~/Devops/new_demo.txt
+|4,39,2,8,1682097061,"~/Devops/new_demo.txt"
+-'  2  8  ~/Devops/new_demo.txt
+|4,39,2,8,1682097061,"~/Devops/new_demo.txt"
+-'  2  8  ~/Devops/new_demo.txt
+|4,39,2,8,1682097061,"~/Devops/new_demo.txt"
+-'  2  8  ~/Devops/new_demo.txt
+|4,39,2,8,1682097061,"~/Devops/new_demo.txt"
+-'  2  8  ~/Devops/new_demo.txt
+|4,39,2,8,1682097061,"~/Devops/new_demo.txt"
+-'  2  8  ~/Devops/new_demo.txt
+|4,39,2,8,1682097061,"~/Devops/new_demo.txt"
+-'  2  8  ~/Devops/new_demo.txt
+|4,39,2,8,1682097061,"~/Devops/new_demo.txt"
+-'  2  8  ~/Devops/new_demo.txt
+|4,39,2,8,1682097061,"~/Devops/new_demo.txt"
+-'  2  8  ~/Devops/new_demo.txt
+|4,39,2,8,1682097061,"~/Devops/new_demo.txt"
+-'  2  8  ~/Devops/new_demo.txt
+|4,39,2,8,1682097061,"~/Devops/new_demo.txt"
+-'  2  8  ~/Devops/new_demo.txt
+|4,39,2,8,1682097061,"~/Devops/new_demo.txt"
+-'  2  8  ~/Devops/new_demo.txt
+|4,39,2,8,1682097061,"~/Devops/new_demo.txt"
+-'  2  8  ~/Devops/new_demo.txt
+|4,39,2,8,1682097061,"~/Devops/new_demo.txt"
+-'  1  0  ~/Devops/new_demo.txt
+|4,39,1,0,1682097052,"~/Devops/new_demo.txt"
+-'  1  0  ~/Devops/new_demo.txt
+|4,39,1,0,1682097052,"~/Devops/new_demo.txt"
+-'  1  0  ~/Devops/new_demo.txt
+|4,39,1,0,1682097052,"~/Devops/new_demo.txt"
+-'  1  0  ~/Devops/new_demo.txt
+|4,39,1,0,1682097052,"~/Devops/new_demo.txt"
+-'  1  0  ~/Devops/new_demo.txt
+|4,39,1,0,1682097052,"~/Devops/new_demo.txt"
+-'  1  0  ~/Devops/new_demo.txt
+|4,39,1,0,1682097052,"~/Devops/new_demo.txt"
+-'  1  0  ~/Devops/new_demo.txt
+|4,39,1,0,1682097052,"~/Devops/new_demo.txt"
+-'  1  0  ~/Devops/new_demo.txt
+|4,39,1,0,1682097052,"~/Devops/new_demo.txt"
+-'  1  0  ~/Devops/new_demo.txt
+|4,39,1,0,1682097052,"~/Devops/new_demo.txt"
+-'  1  0  ~/Devops/new_demo.txt
+|4,39,1,0,1682097052,"~/Devops/new_demo.txt"
+-'  1  0  ~/Devops/new_demo.txt
+|4,39,1,0,1682097052,"~/Devops/new_demo.txt"
+-'  1  0  ~/Devops/new_demo.txt
+|4,39,1,0,1682097052,"~/Devops/new_demo.txt"
+-'  1  0  ~/Devops/new_demo.txt
+|4,39,1,0,1682097052,"~/Devops/new_demo.txt"
+-'  1  0  ~/Devops/new_demo.txt
+|4,39,1,0,1682097052,"~/Devops/new_demo.txt"
+-'  1  0  ~/Devops/new_demo.txt
+|4,39,1,0,1682097052,"~/Devops/new_demo.txt"
+-'  1  0  ~/Devops/new_demo.txt
+|4,39,1,0,1682097052,"~/Devops/new_demo.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  5  ~/Devops/demo3.txt
+|4,39,1,5,1682096935,"~/Devops/demo3.txt"
+-'  1  0  ~/Devops/demo.txt
+|4,39,1,0,1682096918,"~/Devops/demo.txt"
+-'  1  0  ~/Devops/demo.txt
+|4,39,1,0,1682096918,"~/Devops/demo.txt"
+-'  1  0  ~/Devops/demo.txt
+|4,39,1,0,1682096918,"~/Devops/demo.txt"
+-'  1  0  ~/Devops/demo.txt
+|4,39,1,0,1682096918,"~/Devops/demo.txt"
+-'  1  0  ~/Devops/demo.txt
+|4,39,1,0,1682096918,"~/Devops/demo.txt"
+-'  1  0  ~/Devops/demo.txt
+|4,39,1,0,1682096918,"~/Devops/demo.txt"
+-'  1  0  ~/Devops/demo.txt
+|4,39,1,0,1682096918,"~/Devops/demo.txt"
+-'  1  0  ~/Devops/demo.txt
+|4,39,1,0,1682096918,"~/Devops/demo.txt"
+-'  1  0  ~/Devops/demo1.txt
+|4,39,1,0,1682096857,"~/Devops/demo1.txt"
+-'  1  0  ~/Devops/demo1.txt
+|4,39,1,0,1682096857,"~/Devops/demo1.txt"
+-'  1  0  ~/Devops/demo1.txt
+|4,39,1,0,1682096857,"~/Devops/demo1.txt"
+-'  1  0  ~/Devops/demo1.txt
+|4,39,1,0,1682096857,"~/Devops/demo1.txt"
+-'  1  0  ~/Devops/demo1.txt
+|4,39,1,0,1682096857,"~/Devops/demo1.txt"
+-'  1  0  ~/Devops/demo1.txt
+|4,39,1,0,1682096857,"~/Devops/demo1.txt"
+-'  1  0  ~/Devops/demo1.txt
+|4,39,1,0,1682096857,"~/Devops/demo1.txt"
+-'  1  0  ~/Devops/demo1.txt
+|4,39,1,0,1682096857,"~/Devops/demo1.txt"
+-'  1  0  ~/Devops/demo1.txt
+|4,39,1,0,1682096857,"~/Devops/demo1.txt"
+-'  1  0  ~/Devops/demo1.txt
+|4,39,1,0,1682096857,"~/Devops/demo1.txt"
+-'  1  0  ~/Devops/demo1.txt
+|4,39,1,0,1682096857,"~/Devops/demo1.txt"
+-'  1  0  ~/Devops/demo1.txt
+|4,39,1,0,1682096857,"~/Devops/demo1.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/Devops/demo.txt
+	*	1682098430	0
+	"	1	0
+	^	1	8
+	.	1	7
+	+	1	7
+
+> ~/Devops/demo1.txt
+	*	1682097596	0
+	"	2	0
+	^	2	0
+	.	1	22
+	+	1	22
+
+> ~/Devops/new_demo.txt
+	*	1682097059	0
+	"	2	8
+	^	2	9
+	.	2	8
+	+	2	8
+
+> ~/Devops/demo3.txt
+	*	1682096934	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
+
+> /usr/share/vim/vim81/doc/help.txt
+	*	1682096830	0
+	"	20	8
 
 > ~/Devops/version01.txt
 	*	1682009258	0
